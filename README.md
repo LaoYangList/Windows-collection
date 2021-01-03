@@ -178,4 +178,4 @@ Windows10 multiple editions是多版本系统
 
 ![laoyangmm1](https://github.com/LaoYangList/Windows-collection/blob/main/IMG/%E5%BE%AE%E4%BF%A1.jpg?raw=true)
 
-如果图片不可显示，可以访问(备份链接)[https://blog.csdn.net/TheKingOfNight/article/details/112103405]
+如果图片不可显示，可以访问[备份链接](https://blog.csdn.net/TheKingOfNight/article/details/112103405)
