@@ -172,8 +172,8 @@ Windows10 multiple editions是多版本系统
 
 我把官方镜像下载链接放到了微信公众号【**软件备忘录**】里
 
-![软件备忘录](https://github.com/LaoYangList/Windows-collection/blob/main/IMG/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+![软件备忘录](https://github.com/LaoYangList/Windows-collection/blob/main/IMG/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg?raw=true)
 
 如果你有**更好的想法或建议**，欢迎**与我私聊**微信laoyangmm1！
 
-![laoyangmm1](https://github.com/LaoYangList/Windows-collection/blob/main/IMG/%E5%BE%AE%E4%BF%A1.jpg)
+![laoyangmm1](https://github.com/LaoYangList/Windows-collection/blob/main/IMG/%E5%BE%AE%E4%BF%A1.jpg?raw=true)
