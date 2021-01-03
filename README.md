@@ -177,3 +177,5 @@ Windows10 multiple editions是多版本系统
 如果你有**更好的想法或建议**，欢迎**与我私聊**微信laoyangmm1！
 
 ![laoyangmm1](https://github.com/LaoYangList/Windows-collection/blob/main/IMG/%E5%BE%AE%E4%BF%A1.jpg?raw=true)
+
+如果图片不可显示，请使用梯子访问github或者微信搜索公众号【**软件备忘录**】即可
